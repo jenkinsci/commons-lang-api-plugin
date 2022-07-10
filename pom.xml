@@ -13,7 +13,6 @@
     <properties>
         <commons-lang.version>2.6</commons-lang.version>
         <jenkins.version>2.289.1</jenkins.version>
-        <java.level>8</java.level>
     </properties>
     <name>commons-lang v2.x Jenkins Api Plugin</name>
     <description>Jenkins Api Plugin to provide commons-lang:commons-lang:${commons-lang.version}.
