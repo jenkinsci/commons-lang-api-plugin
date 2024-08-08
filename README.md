@@ -7,7 +7,7 @@ commons-lang-api Plugin
 [![GitHub release](https://img.shields.io/github/v/tag/jenkinsci/commons-lang-api-plugin?label=changelog)](https://github.com/jenkinsci/commons-lang-api-plugin/blob/main/CHANGELOG.md)
 [![Jenkins Plugin Installs](https://img.shields.io/jenkins/plugin/i/commons-lang-api-plugin.svg?color=blue)](https://plugins.jenkins.io/commons-lang-api)
 
-This plugin provides [Commons Lang v2.x](https://commons.apache.org/proper/commons-lang/) to Jenkins Plugins.<br>
+This plugin provides [Apache Commons Lang v2.x](https://commons.apache.org/proper/commons-lang/) to Jenkins Plugins.<br>
 
 Version will be "&lt;commons-lang version&gt;_&lt;plugin version&gt;", so clear what upstream dependency it is offering and plugin can be patch by "plugin version" if required.
 
